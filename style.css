@@ -46,4 +46,64 @@
      
     
         
-     
+    #main div{
+        border: solid 2px;
+        border-color: pink;
+        border-color: black;
+        margin: 30%;
+        padding: 5px;
+        }
+       
+        .owlee{
+        width: 25%;
+        height: auto;
+        float: left;
+        float: inline-start;
+        border: transparent 1px;
+        margin-top: none;
+        }
+       
+        #div2{
+            border: solid 1px;
+            padding: 20px;
+            margin: 5%;
+            border: rgb(247, 212, 217);
+            height: 900px;
+            background-color: rgb(245, 218, 239);
+        }
+       
+        #div3{
+            padding: 20px;
+            margin: auto;
+            margin-top: 5%;
+            margin-bottom: 50%;
+            border: aliceblue;
+            height: 700px;
+            width: 80%;
+            border-radius: 50px;
+            background-color: aliceblue;
+           
+        }
+       
+        .nav{
+            float: right;
+            margin-top: 2%;
+           
+        }
+       
+        #nav1{
+        text-decoration: none;
+        color: black;
+       
+        }
+       
+        #button{
+            color: aliceblue;
+            font-style: normal;
+            border-radius: 15px;
+            background-color: rgb(131, 72, 187);
+            padding: 7px;
+            width: 15%;
+           
+        }
+      
